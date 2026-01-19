@@ -11,7 +11,7 @@
 - The web broswer I use to edit my code is GitHub
 - My preference for taking notes by writing them in a notebook and also typing them on google docs so I can refer to them easily during tests and quizzes
 
-  # Class Schedule
+## Class Schedule
 
 | Classes | Day | Time |
 |---------|-----|------|
